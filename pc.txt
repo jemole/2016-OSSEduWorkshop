@@ -6,7 +6,7 @@ Program Committee
 Yasemin Allsop, UK          |    15/02    |    Yes
 Peter Parnes, Sweden        |    15/02    |    Yes
 Karin Nygards, Sweden       |    15/02    |    No
-Oystein Imsen, Norway       |    15/02    |    ?
+Oystein Imsen, Norway       |    15/02    |    Yes
 Linda Mannila, Finland      |    15/02    |    ?
 Kristian Langborg, Denmark  |    15/02    |    No
 Alessandro Bogliolo, Italy  |    17/02    |    Yes
